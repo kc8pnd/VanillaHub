@@ -1,0 +1,2 @@
+# VanillaHub
+Vanilla Addon Manager
